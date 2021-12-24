@@ -26,3 +26,10 @@ Google authentication in Angular
 
 # Update Angular
 - ng update @angular/cli @angular/core
+
+# Resource
+- https://www.youtube.com/watch?v=cvGdM8G4R74
+
+# Problem
+"./node_moudules/bootstrap/scss/bootstrap.scss",
+"./node_modules/bootstrap/dist/css/bootstrap.min.css"
